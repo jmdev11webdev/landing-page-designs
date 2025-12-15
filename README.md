@@ -1,6 +1,3 @@
-Here’s a **clean, professional README** you can directly use for your
-**`landing-page-designs`** repository — portfolio-ready and recruiter-friendly, with **WSL2 Ubuntu 24** clearly mentioned.
-
 ---
 
 # Landing Page Designs
